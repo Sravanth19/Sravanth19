@@ -30,9 +30,3 @@
 - 🎓 B.Tech in **CSE (AI & ML)**, 2022–2026  
 - 💻 Interested in **Machine Learning, Web Development, and Cloud**  
 - 🌱 Currently exploring **ServiceNow & Full-Stack Development**  
-
----
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Sravanth19&theme=dracula&hide_border=true" height="150" />
-</div>
