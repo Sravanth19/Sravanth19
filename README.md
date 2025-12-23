@@ -31,25 +31,16 @@ I am a **CS Undergrad (Class of 2026)** specializing in **AI & ML**. I bridge th
 </div>
 
 ---
-
 ### 📊 My GitHub Journey
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Sravanth19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sravanth19&layout=compact&theme=tokyonight&hide_border=true" width="350" />
-      </td>
-    </tr>
-  </table>
-</div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sravanth19&theme=tokyonight&hide_border=true" width="750" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sravanth19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sravanth19&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sravanth19&theme=tokyonight&hide_border=true" width="94%" />
+</p>
 ---
 
 ### 🔥 Top Projects & Contributions
