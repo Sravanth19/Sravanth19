@@ -45,7 +45,7 @@ I am a **Computer Science Student (Class of 2026)** with a deep passion for brid
 ### 🤝 Let's Collaborate
 * 💬 Ask me about: **AI, ServiceNow, or Data Structures.**
 * 📫 How to reach me: Use the LinkedIn or Email badges above!
-* ⚡ Fun fact: I enjoy turning coffee into efficient, bug-free code.
+* ⚡ Fun fact: I spend my free time optimizing prompts, analyzing how modern AI models learn and make decisions.
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
