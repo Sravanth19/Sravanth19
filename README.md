@@ -1,4 +1,9 @@
 <h1 align="center">Hello 👋, I'm Gutipalli Sravanth</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Continuous+Learner;Computer+Science+Student;AI+%26+ML+Enthusiast;Open+Source+Contributor;Building+Real+World+Projects" />
+</p>
+
 <h3 align="center">Computer Science Student | AI & ML Enthusiast</h3>
 
 ---
@@ -27,6 +32,33 @@
 ---
 
 ### 🚀 About Me
-- 🎓 B.Tech in **CSE (AI & ML)**, 2022–2026  
-- 💻 Interested in **Machine Learning, Web Development, and Cloud**  
-- 🌱 Currently exploring **ServiceNow & Full-Stack Development**  
+- 🎓 **B.Tech in Computer Science (AI & ML)** (2022 – 2026)  
+- 🤖 Passionate about **Machine Learning, Generative AI & RAG systems**  
+- 💻 Experienced in **Web Development (Django, REST APIs)**  
+- 🌱 Currently exploring **ServiceNow, Full-Stack & Cloud Technologies**  
+- 🔁 Strong believer in **continuous learning & real-world problem solving**
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sravanth19&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sravanth19&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+
+</div>
+
+---
+
+### 🔥 What Makes Me Stand Out
+- ✅ Hands-on **AI/ML & RAG projects**
+- ✅ **ServiceNow CSA & CAD** certified
+- ✅ Strong fundamentals in **DSA & problem-solving**
+- ✅ Open-source contributor mindset
+
+---
+
+### 🌐 Let’s Connect & Collaborate
+💡 *Always open to learning, collaboration, and building impactful solutions.*
+
