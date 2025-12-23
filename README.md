@@ -41,13 +41,11 @@
 ---
 
 ### 📊 GitHub Stats
-<div align="center">
+### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sravanth19&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sravanth19&show_icons=true&theme=tokyonight&hide_border=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sravanth19&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sravanth19&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
