@@ -34,14 +34,6 @@ I am a **Computer Science Student (Class of 2026)** with a deep passion for brid
 ---
 
 
-
-### 🔥 Featured Projects
-* 🧠 **AI/RAG System**: Developing intelligent retrieval systems for complex datasets.
-* ☁️ **ServiceNow Custom Apps**: Building enterprise-grade applications on the Now Platform.
-* 🌐 **Full-Stack Web**: Creating scalable backends using Django and Python.
-
----
-
 ### 🤝 Let's Collaborate
 * 💬 Ask me about: **AI, ServiceNow, or Data Structures.**
 * 📫 How to reach me: Use the LinkedIn or Email badges above!
