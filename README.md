@@ -67,3 +67,8 @@ I am a **Computer Science Student (Class of 2026)** with a deep passion for brid
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
+
+<br/>
+  
+  <img src="https://komarev.com/ghpvc/?username=Sravanth19&label=Profile%20Views&color=36BCF7&style=flat" alt="Visitor Counter" />
+</div>
