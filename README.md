@@ -33,24 +33,7 @@ I am a **Computer Science Student (Class of 2026)** with a deep passion for brid
 
 ---
 
-### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sravanth19&theme=tokyonight&column=7&no-bg=true" alt="GitHub Trophies" />
-</p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sravanth19&show_icons=true&theme=tokyonight&hide_border=true" width="48%" align="left" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sravanth19&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sravanth19&theme=tokyonight&hide_border=true" width="100%" />
-</p>
-
----
 
 ### 🔥 Featured Projects
 * 🧠 **AI/RAG System**: Developing intelligent retrieval systems for complex datasets.
@@ -68,7 +51,4 @@ I am a **Computer Science Student (Class of 2026)** with a deep passion for brid
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
-<br/>
-  
-  <img src="https://komarev.com/ghpvc/?username=Sravanth19&label=Profile%20Views&color=36BCF7&style=flat" alt="Visitor Counter" />
-</div>
+
