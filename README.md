@@ -20,7 +20,7 @@ I am a **Computer Science Student (Class of 2026)** with a deep passion for brid
 - 🤖 **Expertise:** Generative AI, RAG Systems, and LLM Fine-tuning.
 - 🛠️ **Enterprise:** ServiceNow Certified (CSA & CAD) — building scoped apps and automation.
 - 💻 **Development:** Full-stack development with Django and modern REST APIs.
-- 🌱 **Learning:** Currently diving deeper into Agentic AI and Cloud Architectures.
+🌱 Learning: Exploring Agentic AI systems, cloud-native architectures, and the fundamentals of quantum computing to understand next-generation computation and intelligent decision-making.
 
 ---
 
